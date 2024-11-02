@@ -29,7 +29,7 @@ For Software:
 Screenshots
 
 This screenshot shows the initial state of the application before scrolling.
-screenshot\Screenshot 2024-11-02 075547.png
+https://github.com/JESWINTJ/makeaton/blob/main/ScrollDistanceTracker/screenshot/Screenshot%202024-11-02%20075547.png
 
 This screenshot displays the scroll distance in kilometers after scrolling down.
 screenshot\Screenshot 2024-11-02 075700.png
