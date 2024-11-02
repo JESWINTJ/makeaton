@@ -35,7 +35,7 @@ This screenshot displays the scroll distance in kilometers after scrolling down.
 https://github.com/JESWINTJ/makeaton/blob/main/ScrollDistanceTracker/screenshot/Screenshot%202024-11-02%20075700.png
 
 This screenshot shows the remaining distance to the Moon as you scroll.
-screenshot\Screenshot 2024-11-02 075700.png
+https://github.com/JESWINTJ/makeaton/blob/main/ScrollDistanceTracker/screenshot/Screenshot%202024-11-02%20075700.png
 Diagrams
 
 This diagram explains the workflow of how scroll distance is calculated and displayed.
