@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Scroll Distance Tracker",
+  "version": "1.0",
+  "description": "Tracks the scroll-down distance of the mouse cursor and calculates remaining distance to the Moon.",
+  "permissions": ["storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
