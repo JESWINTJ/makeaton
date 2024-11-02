@@ -39,7 +39,7 @@ screenshot\Screenshot 2024-11-02 075700.png
 Diagrams
 
 This diagram explains the workflow of how scroll distance is calculated and displayed.
-screenshot\scroll_distance_workflow.png
+https://github.com/JESWINTJ/makeaton/blob/main/ScrollDistanceTracker/screenshot/scroll_distance_workflow.png
 For Hardware:
 No hardware diagrams or components are required for this project.
 
