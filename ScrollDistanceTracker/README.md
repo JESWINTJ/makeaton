@@ -7,7 +7,7 @@
 
 
 ## Project Description
-The Scroll Distance Tracker is a web application/BROWSER EXTENSION that measures how far a user has scrolled on a webpage, displaying the distance moved in kilometers and the remaining distance to the Moon.
+The Scroll Distance Tracker is a BROWSER EXTENSION that measures how far a user has scrolled on a webpage, displaying the distance moved in kilometers and the remaining distance to the Moon.
 
 ## The Problem 
 Have you ever wondered how far you scroll while binge-watching cat videos? We're tackling the dire issue of scroll distance awareness in a world filled with endless scrolling!
